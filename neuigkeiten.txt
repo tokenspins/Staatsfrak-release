@@ -1,0 +1,29 @@
+[26.10.2025 23:15]
+
+ES LEBT (wieder)
+Wenn ihr das lest den Keybinder einmal neu runterladen, da es ein Fehler
+im AutoUpdater gab.
+- /relog eingefuegt
+- Automatisches Fraktionstore oeffnen eingefuegt 
+(derzeit Tor im LSPD Interior, beide Tore beim LSPD und die Schranke in Palomino Creek)
+Falls noch weitere Punkte gewuenscht sind gerne bei mir melden
+
+
+[19.09.2021 18:30]
+
+- Reupload vom Keybinder + Anpassung Auto Updater
+Veränderungen von Bane2904:
+- Neues Icon
+Neue Keybinds: 
+- /undercover bei den Staatsfr. Keybinds hinzugefuegt
+- /enter, waschen, toilette und /heal bei den Staatsfr. Keybinds hinzugefuegt
+Neue Commands im Code:
+- /resms = Auf SMS antworten
+- /ssms  = SMS verschicken
+- /call = Jemanden anrufen
+- /acall = Anruf annehmen mit einer tagesuebergreifenden Begrueßung
+- /ecall Anruf auflegen mit einer tagesuebergreifenden Verabschiedung
+- /arb = Anrufbeantowrter
+Veränderungen:
+- /kbefehle = Früher = Alles weißer Text. Jetzt = Die Befehle (mit /) Blau, die = Zeichen in Rot und die Bedeutung in weiß
+- /kbefehle Neue Commands eingefügt mit Erklärung
