@@ -1,3 +1,9 @@
+[12.03.2026]
+- Keybinder mit neuer SAMP UDF kompiliert und API.dll entfernt. Damit jetzt mit R5 kompatibel (danke an Clarence_Callahan)
+- neue LoG Standorte eingebaut (danke an Luke und aviate)
+- Gametext.dll entfernt, da nicht mehr kompatibel mit 0.3.7R5 (wurde f�r Headshot Nachricht im r Chat benutzt)
+- nicht mehr benoetigten Code entfernt
+
 [26.10.2025 23:15]
 
 ES LEBT (wieder)
@@ -7,23 +13,3 @@ im AutoUpdater gab.
 - Automatisches Fraktionstore oeffnen eingefuegt 
 (derzeit Tor im LSPD Interior, beide Tore beim LSPD und die Schranke in Palomino Creek)
 Falls noch weitere Punkte gewuenscht sind gerne bei mir melden
-
-
-[19.09.2021 18:30]
-
-- Reupload vom Keybinder + Anpassung Auto Updater
-Veränderungen von Bane2904:
-- Neues Icon
-Neue Keybinds: 
-- /undercover bei den Staatsfr. Keybinds hinzugefuegt
-- /enter, waschen, toilette und /heal bei den Staatsfr. Keybinds hinzugefuegt
-Neue Commands im Code:
-- /resms = Auf SMS antworten
-- /ssms  = SMS verschicken
-- /call = Jemanden anrufen
-- /acall = Anruf annehmen mit einer tagesuebergreifenden Begrueßung
-- /ecall Anruf auflegen mit einer tagesuebergreifenden Verabschiedung
-- /arb = Anrufbeantowrter
-Veränderungen:
-- /kbefehle = Früher = Alles weißer Text. Jetzt = Die Befehle (mit /) Blau, die = Zeichen in Rot und die Bedeutung in weiß
-- /kbefehle Neue Commands eingefügt mit Erklärung
